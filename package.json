@@ -1,0 +1,20 @@
+{
+  "name": "praticando-rede-social",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "author": "mauricio_br_dev",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "uuidv5": "^1.0.0"
+  }
+}
